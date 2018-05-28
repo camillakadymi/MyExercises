@@ -1,0 +1,3 @@
+def emotions(emtn):
+print ("Why are you so",emtn,"?")
+print("Aren\'t you tired of being so",emth,"?")
